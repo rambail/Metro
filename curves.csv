@@ -1,4 +1,4 @@
-Chainage (m),Curve Start (m),Curve End (m),Curve Radius (m)
-0,0,100,200
-2200,0,150,200
-4100,0,50,400
+Start,End,Radius
+0,100,200
+2200,2350,200
+4100,4150,400
