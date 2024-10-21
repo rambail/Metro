@@ -1,9 +1,9 @@
 Parameter,Value
-acceleration,1
-braking,1.2
-max_speed,80
+Acceleration_rate,1.0
+Braking_rate,1.2
+Maximum_speed,80
 Static_friction,14
 Rolling_resistance,0.264
 Air_resistance,0.00191
-mass,200
-power,1600
+Mass,200
+Power,1600
